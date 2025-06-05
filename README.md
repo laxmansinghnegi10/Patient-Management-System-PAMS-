@@ -50,4 +50,27 @@ The Patient Management System is a Django-based web app that displays a list of 
    git clone https://github.com/your-username/pams.git
    cd pams
 
+2. **Create a virtual environment and activate it**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+
+4. **Run migrations and seed data**
+   ```bash
+   python manage.py migrate
+   python manage.py loaddata patients.json  # if using fixture
+
+5. **Run the server**
+    ```bash
+  python manage.py runserver
+
+6. **Visit the app**
+   http://127.0.0.1:8000/
+
+
+
 
