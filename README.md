@@ -28,7 +28,7 @@ The Patient Management System is a Django-based web app that displays a list of 
 
 ## 📸 Screenshot
 
-
+---![Screenshot 2025-06-06 015154](https://github.com/user-attachments/assets/580476a8-4025-4db9-bedb-8e14a7c6a01c)
 
 ---
 
@@ -40,7 +40,7 @@ The Patient Management System is a Django-based web app that displays a list of 
 - Bootstrap (via Stisla)
 - SQLite (default)
 
----
+
 
 ## ⚙️ Setup Instructions
 
