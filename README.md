@@ -1,4 +1,4 @@
-
+ 
 # Patient Management System (PAMS) - Django Project
 
 This is a basic Django application built as part of the assessment for the Associate Software Engineer role at ClaimBuddy Technologies.
@@ -66,7 +66,7 @@ The Patient Management System is a Django-based web app that displays a list of 
 
 5. **Run the server**
     ```bash
-  python manage.py runserver
+   python manage.py runserver
 
 6. **Visit the app**
    http://127.0.0.1:8000/
